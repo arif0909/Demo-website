@@ -1,0 +1,64 @@
+.foot {
+    background-color: #ededed;
+    margin-top: -4px;
+    width: 1019px;
+    display: flex;
+}
+
+footer img {
+    width: 1019px;
+    height: 120px;
+    margin-top: 10px;
+}
+
+.foot ul {
+    display: flex;
+
+}
+
+.foot ul li {
+    list-style: none;
+    border-right: 1px dotted #000000;
+    height: 30px;
+}
+
+.foot ul li:hover {
+    color: #ededed;
+    background-color: #494949;
+}
+
+.foot ul li a {
+    text-decoration: none;
+    text-align: center;
+    margin-top: 10px;
+    color: #000000;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.foot ul li a:hover {
+    color: white;
+}
+
+.foot ul .none {
+    border-right: none;
+}
+
+.footer-left p {
+    margin-left: 52px;
+}
+
+.footer-right a img {
+    width: 205px;
+    height: 45px;
+}
+
+.footer-right {
+    margin-top: 15px;
+    margin-left: 347px;
+}
+
+.footer-right a {
+    text-decoration: none;
+    color: #000000;
+}
